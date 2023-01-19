@@ -28,7 +28,7 @@
   <tr>
     <th>Estudando</th>
   </tr>
-  <tr calign="center">
+  <tr align="center">
     <td>
       <img alt="Rafa-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;" width="40" height="30" align="middle">
     </td>
