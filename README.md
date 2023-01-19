@@ -18,7 +18,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<table align="center">
+<table>
   <tr colspan=2>
     <td>
       <img alt="Julio-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;" width="40" height="30" align="middle">
@@ -28,7 +28,7 @@
   <tr>
     <th>Estudando</th>
   </tr>
-  <tr>
+  <tr colspan=2>
     <td>
       <img alt="Rafa-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;" width="40" height="30" align="middle">
     </td>
