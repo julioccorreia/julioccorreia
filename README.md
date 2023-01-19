@@ -10,6 +10,8 @@
  <table align="left">
    <tr>
     <th>Habilidades</th>
+   </tr>
+   <tr>
      <td>
        <img alt="Julio-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="max-width: 100%;" height="40" align="middle">
        <img alt="Julio-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="max-width: 100%;" height="40" align="middle">
