@@ -10,8 +10,8 @@
  <table align="left">
    <tr colspan=2>
      <td>
-       <img alt="Julio-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;" width="40" height="30" align="middle">
-       <img alt="Julio-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;" width="40" height="30" align="middle">
+       <img alt="Julio-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="max-width: 100%;" height="60" align="middle">
+       <img alt="Julio-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="max-width: 100%;" eight="60" align="middle">
      </td>
    </tr>
  </table>
@@ -20,7 +20,7 @@
    </tr>
    <tr align="center">
      <td>
-       <img alt="Julio-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;" width="40" height="30" align="middle">
+       <img alt="Julio-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="max-width: 100%;" height="60" align="middle">
      </td>
    </tr>
  </table>
@@ -30,8 +30,8 @@
    </tr>
    <tr>
      <td>
-       <img alt="Julio-Angular" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="max-width: 100%;" width="80" height="60" align="middle">
-       <img alt="Julio-NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" style="max-width: 100%;" width="80" height="60" align="middle">
+       <img alt="Julio-Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" style="max-width: 100%;" height="60" align="middle">
+       <img alt="Julio-NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" style="max-width: 100%;" height="60" align="middle">
      </td>
    </tr>
  </table>
