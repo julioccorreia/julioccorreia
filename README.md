@@ -6,6 +6,9 @@
  - 🖥️ Estudando para me tornar um Web Developer
  - 🏀 Gosto de jogar basquete | 🏋🏻‍♂️ Faço Musculação
 
+
+## Linguagens
+
 <div>
   <table align="left">
     <tr>
