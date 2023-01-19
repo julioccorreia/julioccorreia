@@ -19,7 +19,7 @@
 -->
 
 <table width="400px">
-  <tr colspan=5>
+  <tr width="400px" colspan=2>
     <td>
       <img alt="Julio-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;" width="40" height="30" align="middle">
       <img alt="Julio-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;" width="40" height="30" align="middle">
