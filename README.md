@@ -1,10 +1,13 @@
-### Hi there 👋
+### 👋 What's Up!! 👋
+
+##Eae pessoal, sou Júlio
+
+ - 📚 Cursando Informática para Negócios | Fatec Rio Preto
+ - 🖥️ Estudando para me tornar um Web Developer
+ - 🏀 Gosto de jogar basquete | 🏋🏻‍♂️ Faço Musculação
+ 
 
 <!--
-**julioccorreia/julioccorreia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +17,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<table>
+  <tr>
+    <td>
+      <img alt="Julio-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;" width="40" height="30" align="middle">
+      <img alt="Julio-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;" width="40" height="30" align="middle">
+    </td>
+  </tr>
+  <tr>
+    <th>Estudando</th>
+    <td>
+      <img alt="Rafa-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;" width="40" height="30" align="middle">
+    </td>
+  </tr>
+</table>
