@@ -17,7 +17,7 @@
     <tr>
       <th colspan=2>Habilidades</th>
       <th colspan=2>Estudando</th>
-      <th colspan=2>Planos</th>
+      <th colspan=2>Planos Futuros</th>
     </tr>
     <tr>
       <td colspan=2>
