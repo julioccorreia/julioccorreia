@@ -17,6 +17,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<center>
 <table border=0>
   <tr colspan=2>
     <td>
@@ -33,3 +34,4 @@
     </td>
   </tr>
 </table>
+</center>
