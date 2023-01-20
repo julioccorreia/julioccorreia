@@ -1,6 +1,6 @@
 ### 👋 What's Up!! 👋
 
-##Eae pessoal, sou Júlio
+## Eae pessoal, sou Júlio
 
  - 📚 Cursando Informática para Negócios | Fatec Rio Preto
  - 🖥️ Estudando para me tornar um Web Developer
