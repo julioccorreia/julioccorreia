@@ -7,6 +7,7 @@
  - 🏀 Gosto de jogar basquete | 🏋🏻‍♂️ Faço Musculação
 
 CodePen: https://codepen.io/julioccorreia
+SPA Valorant: https://valorant-web-list.vercel.app/characters
 
 
 
