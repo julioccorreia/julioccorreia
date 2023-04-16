@@ -6,7 +6,7 @@
  - 🖥️ Estudando para me tornar um Web Developer
  - 🏀 Gosto de jogar basquete | 🏋🏻‍♂️ Faço Musculação
 
-CodePen: https://codepen.io/julioccorreia
+CodePen: https://codepen.io/julioccorreia <br>
 SPA Valorant: https://valorant-web-list.vercel.app/characters
 
 
